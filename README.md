@@ -3,10 +3,10 @@
 
 **Contributor:** 
 
-* [Abhishek Kadam](https://github.com/noxiousrascal).
-* [Aditya Chaudhari](https://github.com/13apchaudhari).
-* [Anvesha Sonker](https://github.com/anvesha-code).
-* [Saurabh Jadhav](https://github.com/skjzzb).
+* [Abhishek Kadam](https://github.com/noxiousrascal)
+* [Aditya Chaudhari](https://github.com/13apchaudhari)
+* [Anvesha Sonker](https://github.com/anvesha-code)
+* [Saurabh Jadhav](https://github.com/skjzzb)
 
 
 
