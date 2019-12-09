@@ -3,10 +3,10 @@
 
 **Contributor:** 
 
-[Abhishek Kadam](https://github.com/noxiousrascal).
-[Aditya Chaudhari](https://github.com/13apchaudhari).
-[Anvesha Sonker](https://github.com/anvesha-code).
-[Saurabh Jadhav](https://github.com/skjzzb).
+* [Abhishek Kadam](https://github.com/noxiousrascal).
+* [Aditya Chaudhari](https://github.com/13apchaudhari).
+* [Anvesha Sonker](https://github.com/anvesha-code).
+* [Saurabh Jadhav](https://github.com/skjzzb).
 
 
 
@@ -20,27 +20,25 @@
 ### Admin Oprations
 * Admin can Login through username and password.
 * Admin have 4 Oprations .
-* 1 Admin Can Manage Users .
-** i.   Using Search .
-** ii.  Admin Can See All Users and Admin can change user to Admin type By modifing user or delete.
-* 2 Admin Can See The statistics.
-** i.   Can See Oreder statistics on particular date. 
-** ii.  Can See Book selling statistics on particular two dates.
-* 3 Admin Can Manage BooKStore 
-** i.   Admin can Add New Book
-** ii.  Admin can Delete Book
-** iii. Admin can Modify Book
-* 4 Admin can Buy Books
-** i.   Admin can Buy Books or Add Books in to the cart and can remove the books from Cart.
-** ii.  Admin can Place The Order at registered address and pay through Credit-card Number.
+#### 1 Admin Can Manage Users .
+* i.  Using Search .
+* ii.  Admin Can See All Users and Admin can change user to Admin type By modifing user or delete.
+#### 2 Admin Can See The statistics.
+* i.   Can See Oreder statistics on particular date. 
+* ii.  Can See Book selling statistics on particular two dates.
+#### 3 Admin Can Manage BooKStore 
+* i.   Admin can Add New Book
+* ii.  Admin can Delete Book
+* iii. Admin can Modify Book
+#### 4 Admin can Buy Books
+* i.   Admin can Buy Books or Add Books in to the cart and can remove the books from Cart.
+* ii.  Admin can Place The Order at registered address and pay through Credit-card Number.
 
 
 
 ## Used Plugins
-* Bootstrap 4:
-https://getbootstrap.com
-* Font Awesome:
-https://fontawesome.com
+* Bootstrap 4:  https://getbootstrap.com
+* Font Awesome: https://fontawesome.com
 
 
 ## List of Software and Platforms
@@ -98,9 +96,6 @@ https://fontawesome.com
 
 ![1_DB_admin](https://user-images.githubusercontent.com/18563323/70435030-c8464680-1aab-11ea-8baf-adcb64cdc599.JPG)
 
-### Admin DB View
-
-![1_DB_admin](https://user-images.githubusercontent.com/18563323/70435030-c8464680-1aab-11ea-8baf-adcb64cdc599.JPG)
 
 ### Admin Login
 
